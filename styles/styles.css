@@ -58,7 +58,7 @@ body {
     font-weight: bold;
     line-height: 1;
 }
-.name-title .letraI {
+.name-title .letra {
     font-family: 'Mea Culpa', 'Tangerine', cursive;
     color: #931638;
     font-size: 6rem;
@@ -283,7 +283,7 @@ footer {
         font-size: 6rem;
     }
     .name-title .letraI {
-        font-family: 'Mea Culpa', cursive;
+        font-family: 'Mea Culpa', 'Tangerine', cursive;
         color: #931638;
         font-size: 5.5rem;
         line-height: 1;
