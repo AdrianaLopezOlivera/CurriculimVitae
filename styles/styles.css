@@ -58,6 +58,12 @@ body {
     font-weight: bold;
     line-height: 1;
 }
+.name-title .letraI {
+    font-family: 'Mea Culpa', cursive;
+    color: #931638;
+    font-size: 6rem;
+    line-height: 1;
+}
 
 .name-title .sans-serif {
     font-family: 'Montserrat', sans-serif;
@@ -276,7 +282,14 @@ footer {
     .name-title .cursive {
         font-size: 6rem;
     }
-
+    .name-title .letraI {
+        font-family: 'Mea Culpa', cursive;
+        color: #931638;
+        font-size: 5.5rem;
+        line-height: 1;
+        position: relative;
+        bottom: 2px;
+    }
     .name-title .sans-serif {
         font-size: 1.5rem;
     }
